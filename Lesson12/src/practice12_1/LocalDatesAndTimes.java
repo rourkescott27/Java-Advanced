@@ -1,6 +1,4 @@
-package exercise12_1;
-
-import org.w3c.dom.ls.LSOutput;
+package practice12_1;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
