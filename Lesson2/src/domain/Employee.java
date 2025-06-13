@@ -1,14 +1,17 @@
 package domain;
 
+// Employee class represents basic information and behavior of an employee
 public class Employee {
 
-    public int empId;
-    public String name;
-    public String ssn;
-    public double salary;
+    // Instance variables (fields) to store employee details
+    public int empId;       // Employee ID
+    public String name;     // Employee name
+    public String ssn;      // Social Security Number
+    public double salary;   // Salary
 
-    public Employee(){
-
+    // Default constructor (no arguments)
+    public Employee () {
+        // Initializes an empty employee object
     }
 
     public int getEmpId () {
