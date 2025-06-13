@@ -1,4 +1,4 @@
-package domain;
+package practice4_1.domain;
 
 public class Director extends Manager {
 

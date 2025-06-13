@@ -1,8 +1,8 @@
-package business;
+package practice4_1.business;
 
-import domain.Director;
-import domain.Employee;
-import domain.Manager;
+import practice4_1.domain.Director;
+import practice4_1.domain.Employee;
+import practice4_1.domain.Manager;
 
 public class EmployeeStockPlan {
 
