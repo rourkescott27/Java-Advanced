@@ -1,7 +1,5 @@
 package practice9_1;
 
-// Import the necessary classes for working with lists and consumers
-
 import java.util.List;
 import java.util.function.Consumer;
 
