@@ -22,7 +22,7 @@ public class RoboMailTest01 {
 
         // Print headers to the console to show what we're doing
         System.out.println("\n ==== RoboMail 01");
-        System.out.println("\n === Sales Executive");
+        System.out.println("\n === Sales Staff 50 and under ");
 
         // Start of stream processing
         pl.stream()  // Convert the list to a stream for processing
