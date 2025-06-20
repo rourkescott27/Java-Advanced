@@ -6,10 +6,6 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.stream.Stream;
 
-/**
- *
- * @author oracle
- */
 public class DirWalk {
   public static void main(String[] args) {  
 
