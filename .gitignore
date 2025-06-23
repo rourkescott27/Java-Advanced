@@ -11,3 +11,10 @@
 *.xml
 # Build output
 /out/production/
+# Ignore Apache Derby database folders and files
+*.dat
+*.lck
+*.ctrl
+*.log
+*.properties
+*.txt
